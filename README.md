@@ -4,7 +4,7 @@
 
 #### By Brijesh Munjapra
 
-#### This Webpage is a number convertor 
+#### This Webpage is a number convertor.
 
 ## Technologies Used
 
